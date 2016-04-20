@@ -60,9 +60,9 @@ Some READMEs also contain brief interactive elements such as quizzes or little i
 
 Once you've completed a README, you should click the "I'm Done" button on the right. The "Next Lesson" button will light up, allowing you to proceed.
 
-![Readme not done](https://curriculum-content.s3.amazonaws.com/intro-to-learn/right_rail_readme_not_done.png)
+![Readme not done](https://curriculum-content.s3.amazonaws.com/intro-to-learn/readmeUndone.png)
 
-![Readme done](https://curriculum-content.s3.amazonaws.com/intro-to-learn/right_rail_readme_done.png)
+![Readme done](https://curriculum-content.s3.amazonaws.com/intro-to-learn/readmeDone.png)
 
 ## Go!
 
