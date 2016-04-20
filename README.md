@@ -44,7 +44,7 @@ All labs include a README that you will see on Learn. The lab README will descri
 
 You'll know if a lesson on Learn is a lab by the actions the right column asks you to take. Labs will display the following in the right:
 
-![Lab](https://curriculum-content.s3.amazonaws.com/intro-to-learn/right_rail_lab.png)
+![Lab](https://curriculum-content.s3.amazonaws.com/intro-to-learn/LabLights.png)
 
 #### READMEs
 
