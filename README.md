@@ -54,7 +54,7 @@ READMEs provide context and exposition on a topic by breaking concepts down. REA
 
 As you can probably tell already, Learn is a big fan of the written word. Some READMEs have videos, but our expectation is that you also do the reading. The video augments the content; it does not replace it.
 
-You're going to have to do a lot of reading on Learn. We know other platforms make heavy use of 3-6 minute videos, and we're going to continue to experiment with that medium. For now, the majority of the content on Learn is text. We believe that with all the details and syntax involved in code – and since being a professional programmer is basically reading and writing text all day – the best way to learn to code is through reading and writing code; not watching videos.
+You're going to have to do a lot of reading on Learn. We know other platforms make heavy use of 3-6 minute videos, and we're going to continue to experiment with that medium. For now, the majority of the content on Learn is text. We believe that with all the details and syntax involved in code – and since being a professional programmer is basically reading and writing text all day – the best way to learn to code is through reading and writing code, not watching videos.
 
 Some READMEs also contain brief interactive elements such as quizzes or little in-browser coding challenges.
 
@@ -70,9 +70,4 @@ Seeing as this lesson is a README, you're now done and ready to go to the next l
 
 Happy Learning!
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/navigating-curriculum-on-learn' title='Navigating Curriculum on Learn'>Navigating Curriculum on Learn</a> on Learn.co and start learning to code for free.</p>
-
-
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/navigating-curriculum-on-learn-ide'>Navigating Curriculum on Learn IDE</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/navigating-curriculum-on-learn-ide'>Navigating Curriculum On Learn</a> on Learn.co and start learning to code for free.</p>
