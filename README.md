@@ -2,10 +2,8 @@
 
 ## Overview
 
-At this point, you've created a Learn account and set up an integrated
-development environment (more on that later). Before you start, though, let's
-get a little more familiar with how lessons work on Learn.  In this README, we
-will briefly go over:
+Before we go any further, let's get a little more familiar with how lessons 
+work on Learn.  In this README, we will briefly go over:
 
 * How content is organized on Learn
 * The standard Learn workflow
@@ -58,20 +56,19 @@ you to take. Labs will display the following on the right:
 ![Lab](https://curriculum-content.s3.amazonaws.com/intro-to-learn/LabLights.png)
 
 To start a lab using the in-browser IDE, click the "Open IDE" button.  The IDE
-will appear and the lab materials will automatically download the lab files.
+will appear with a copy of the lab materials within it.
 
 ![IDE](https://downloads.intercomcdn.com/i/o/41909803/629210713d1b1343c88b60d7/learnIde6.gif)
 
 To complete a lab and move on, you must do two things:
 
 * Write a solution that passes all the tests for that lab. Unless otherwise
-specified, testing your work is done by entering the `learn test` command (or just `learn`)  in the
-terminal. Running this command lets Learn know when you have a working solution.
-* Submit your code. By entering `learn submit` into the terminal, a pull
-request on GitHub will be created using the solution you have written,
-indicating to Learn that you are ready to move to the next lesson.
+specified, testing your work is done by typing the `learn test` command (or just `learn`)  in the
+terminal. Running this command lets Learn know when you believe that you have a working solution.
+* Submit your code. When the tests are all passing, type `learn submit` into the terminal
+to let Learn know that you're ready to move to the next lesson.
 
-Occasionally, you will encounter labs that do not have tests which we call _code
+Occasionally, you may encounter labs that do not have tests which we call _code
 alongs_. These lessons do not have a challenge to solve, but are designed for a
 hands on approach to learning a concept.  For these, you will not need to run
 `learn` to pass tests, but _will_ need to run `learn submit` when you are
