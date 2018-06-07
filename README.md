@@ -1,4 +1,4 @@
-# Navigating Curriculum on Learn
+# Navigating the Curriculum
 
 ## Overview
 
@@ -95,8 +95,8 @@ READMEs have videos, but our expectation is that you also do the reading. **The
 video augments the content; it does not replace it.**
 
 You're going to have to do a lot of reading on Learn. We know other platforms
-make heavy use of 3-6 minute videos, and we're going to continue to experiment
-with that medium. For now, the majority of the content on Learn is text. We
+make heavy use of short videos, and we're going to continue to experiment
+with that medium. However, for now, the majority of the content on Learn is text. We
 believe that with all the details and syntax involved in code – and since being
 a professional programmer is basically reading and writing text all day – the
 best way to learn to code is through reading and writing code, not watching
