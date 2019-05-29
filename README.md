@@ -111,10 +111,10 @@ To complete a lab and move on, you must do two things:
 
 One the first labs, we'll make sure to go through this process in detail.
 
-Occasionally, you may encounter labs that do not have tests which we call _code
-alongs_. These lessons do not have a challenge to solve, but are designed for a
-hands on approach to learning a concept. For these, you will not need to run
-`learn` to pass tests, but _will_ need to run `learn submit` when you are
+Occasionally, you may encounter labs that do not have tests which we call
+_code-alongs_. These lessons do not have a challenge to solve, but are designed
+for a hands on approach to learning a concept. For these, you will not need to
+run `learn` to pass tests, but _will_ need to run `learn submit` when you are
 finished.
 
 ## Conclusion
