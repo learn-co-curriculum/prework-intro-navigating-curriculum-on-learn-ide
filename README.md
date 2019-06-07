@@ -129,3 +129,4 @@ lesson. Click the "I'm Done" button and proceed to the next lesson.
 Happy Learning!
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/navigating-curriculum-on-learn-ide'>Navigating Curriculum on Learn IDE</a> on Learn.co and start learning to code for free.</p>
+
