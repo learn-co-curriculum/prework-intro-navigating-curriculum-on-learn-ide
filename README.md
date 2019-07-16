@@ -109,7 +109,7 @@ To complete a lab and move on, you must do two things:
 - Submit your code. When the tests are all passing, type `learn submit` into the terminal
   to let Learn know that you're ready to move to the next lesson.
 
-One the first labs, we'll make sure to go through this process in detail.
+On the first labs, we'll make sure to go through this process in detail.
 
 Occasionally, you may encounter labs that do not have tests which we call
 _code-alongs_. These lessons do not have a challenge to solve, but are designed
