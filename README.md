@@ -96,11 +96,6 @@ you to take. Labs will display the following on the right:
 
 ![Lab](https://curriculum-content.s3.amazonaws.com/intro-to-learn/LabLights.png)
 
-To start a lab using the in-browser IDE, click the "Open IDE" button. The IDE
-will appear with a copy of the lab materials within it.
-
-![IDE](https://downloads.intercomcdn.com/i/o/41909803/629210713d1b1343c88b60d7/learnIde6.gif)
-
 To complete a lab and move on, you must do two things:
 
 - Write a solution that passes all the tests for that lab. Unless otherwise
